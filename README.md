@@ -2,6 +2,7 @@
 ![Maintainer](https://img.shields.io/badge/Développeur-Bastien_ROUSSEL-blue)
 [![Generic badge](https://img.shields.io/badge/Developpement-En_cours-orange.svg)](https://shields.io/)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+&nbsp;
 MyStripeBusiness est un petit projet pour récupérer les infos / clients d'un compte stripe.
 
 ## Avancement
